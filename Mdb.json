@@ -35,6 +35,18 @@
         "timestamp": "2025-10-11T02:59:28.558Z",
         "timezone": "America/Bogota"
       }
+    },
+    {
+      "phone": "5356535248",
+      "message": "Hola 11",
+      "telemetry": {
+        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36",
+        "platform": "Linux aarch64",
+        "language": "es-US",
+        "screenResolution": "360x806",
+        "timestamp": "2025-10-11T03:05:44.980Z",
+        "timezone": "America/Bogota"
+      }
     }
   ]
 }
