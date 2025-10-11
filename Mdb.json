@@ -1,100 +1,206 @@
 {
-  "messages": [
+  "devices": [
     {
-      "phone": "+573216949956",
-      "message": "",
-      "telemetry": {
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.208 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "es-US",
-        "screenResolution": "360x806",
-        "timestamp": "2025-10-11T02:48:08.650Z",
-        "timezone": "America/Bogota"
+      "id": "0001",
+      "platform": "android",
+      "ip": "192.168.1.45",
+      "country": "Colombia",
+      "system": "Android 13",
+      "status": "online",
+      "lastConnection": "Hace 2 min",
+      "details": {
+        "battery": "85%",
+        "storage": "64GB / 128GB",
+        "model": "Samsung Galaxy S21",
+        "operator": "Claro",
+        "language": "Español"
       }
     },
     {
-      "phone": "3216949956",
-      "message": "Hola mami ",
-      "telemetry": {
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.208 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "es-US",
-        "screenResolution": "360x806",
-        "timestamp": "2025-10-11T02:48:30.699Z",
-        "timezone": "America/Bogota"
+      "id": "0002",
+      "platform": "windows",
+      "ip": "192.168.1.78",
+      "country": "Colombia",
+      "system": "Windows 11",
+      "status": "online",
+      "lastConnection": "Hace 5 min",
+      "details": {
+        "cpu": "Intel i7-10700",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "gpu": "NVIDIA RTX 3060",
+        "antivirus": "Windows Defender"
       }
     },
     {
-      "phone": "3638388388",
-      "message": "Klk brother ",
-      "telemetry": {
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.208 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "es-US",
-        "screenResolution": "360x806",
-        "timestamp": "2025-10-11T02:59:28.558Z",
-        "timezone": "America/Bogota"
+      "id": "0003",
+      "platform": "android",
+      "ip": "192.168.1.102",
+      "country": "Colombia",
+      "system": "Android 12",
+      "status": "offline",
+      "lastConnection": "Hace 1 hora",
+      "details": {
+        "battery": "Desconocido",
+        "storage": "32GB / 64GB",
+        "model": "Xiaomi Redmi Note 10",
+        "operator": "Movistar",
+        "language": "Español"
       }
     },
     {
-      "phone": "5356535248",
-      "message": "Hola 11",
-      "telemetry": {
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "es-US",
-        "screenResolution": "360x806",
-        "timestamp": "2025-10-11T03:05:44.980Z",
-        "timezone": "America/Bogota"
+      "id": "0004",
+      "platform": "windows",
+      "ip": "192.168.1.156",
+      "country": "Colombia",
+      "system": "Windows 10",
+      "status": "online",
+      "lastConnection": "Hace 30 seg",
+      "details": {
+        "cpu": "AMD Ryzen 5 3600",
+        "ram": "8GB",
+        "storage": "1TB HDD",
+        "gpu": "AMD Radeon RX 580",
+        "antivirus": "Avast"
       }
     },
     {
-      "phone": "5388688888",
-      "message": "75_7\"7'+(!(8$",
-      "telemetry": {
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.208 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "es-US",
-        "screenResolution": "360x806",
-        "timestamp": "2025-10-11T03:07:45.228Z",
-        "timezone": "America/Bogota"
+      "id": "0005",
+      "platform": "android",
+      "ip": "192.168.1.89",
+      "country": "Colombia",
+      "system": "Android 14",
+      "status": "online",
+      "lastConnection": "Hace 1 min",
+      "details": {
+        "battery": "92%",
+        "storage": "128GB / 256GB",
+        "model": "Google Pixel 7",
+        "operator": "Tigo",
+        "language": "Español"
       }
     },
     {
-      "phone": "8383838390",
-      "message": "Xxxxxxxxxxxxxxx",
-      "telemetry": {
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "es-US",
-        "screenResolution": "360x806",
-        "timestamp": "2025-10-11T03:08:33.757Z",
-        "timezone": "America/Bogota"
+      "id": "0006",
+      "platform": "windows",
+      "ip": "192.168.1.201",
+      "country": "Colombia",
+      "system": "Windows 11",
+      "status": "offline",
+      "lastConnection": "Hace 3 horas",
+      "details": {
+        "cpu": "Intel i5-11400",
+        "ram": "12GB",
+        "storage": "256GB SSD",
+        "gpu": "Intel UHD Graphics",
+        "antivirus": "Norton"
       }
     },
     {
-      "phone": "2",
-      "message": "T",
-      "telemetry": {
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.208 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "es-US",
-        "screenResolution": "360x806",
-        "timestamp": "2025-10-11T03:28:18.827Z",
-        "timezone": "America/Bogota"
+      "id": "0007",
+      "platform": "android",
+      "ip": "10.0.0.23",
+      "country": "Colombia",
+      "system": "Android 11",
+      "status": "online",
+      "lastConnection": "Hace 45 seg",
+      "details": {
+        "battery": "78%",
+        "storage": "32GB / 64GB",
+        "model": "Motorola Moto G Power",
+        "operator": "Claro",
+        "language": "Español"
       }
     },
     {
-      "phone": "53880",
-      "message": "Xhc ",
-      "telemetry": {
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.208 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "es-US",
-        "screenResolution": "360x806",
-        "timestamp": "2025-10-11T03:29:36.971Z",
-        "timezone": "America/Bogota"
+      "id": "0008",
+      "platform": "windows",
+      "ip": "10.0.0.67",
+      "country": "Colombia",
+      "system": "Windows 11",
+      "status": "offline",
+      "lastConnection": "Hace 2 días",
+      "details": {
+        "cpu": "AMD Ryzen 7 5800X",
+        "ram": "32GB",
+        "storage": "1TB NVMe SSD",
+        "gpu": "NVIDIA RTX 3080",
+        "antivirus": "Kaspersky"
+      }
+    },
+    {
+      "id": "0009",
+      "platform": "android",
+      "ip": "172.16.0.5",
+      "country": "Colombia",
+      "system": "Android 13",
+      "status": "online",
+      "lastConnection": "Hace 10 min",
+      "details": {
+        "battery": "45%",
+        "storage": "64GB / 128GB",
+        "model": "OnePlus 9",
+        "operator": "Movistar",
+        "language": "Español"
+      }
+    },
+    {
+      "id": "0010",
+      "platform": "windows",
+      "ip": "172.16.0.18",
+      "country": "Colombia",
+      "system": "Windows 10",
+      "status": "online",
+      "lastConnection": "Hace 3 min",
+      "details": {
+        "cpu": "Intel i3-10100",
+        "ram": "4GB",
+        "storage": "500GB HDD",
+        "gpu": "Intel UHD Graphics 630",
+        "antivirus": "McAfee"
+      }
+    },
+    {
+      "id": "0011",
+      "platform": "android",
+      "ip": "192.168.1.203",
+      "country": "Colombia",
+      "system": "Android 12",
+      "status": "online",
+      "lastConnection": "Hace 15 min",
+      "details": {
+        "battery": "67%",
+        "storage": "128GB / 256GB",
+        "model": "Samsung Galaxy A54",
+        "operator": "Tigo",
+        "language": "Español"
+      }
+    },
+    {
+      "id": "0012",
+      "platform": "windows",
+      "ip": "192.168.1.145",
+      "country": "Colombia",
+      "system": "Windows 10",
+      "status": "offline",
+      "lastConnection": "Hace 5 horas",
+      "details": {
+        "cpu": "AMD Ryzen 3 3200G",
+        "ram": "8GB",
+        "storage": "240GB SSD",
+        "gpu": "AMD Radeon Vega 8",
+        "antivirus": "Avira"
       }
     }
-  ]
+  ],
+  "stats": {
+    "totalCommands": 156,
+    "commandsByType": {
+      "file": 45,
+      "camera": 32,
+      "terminal": 28,
+      "location": 25,
+      "screen": 26
+    }
+  }
 }
