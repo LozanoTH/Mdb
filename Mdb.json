@@ -59,6 +59,18 @@
         "timestamp": "2025-10-11T03:07:45.228Z",
         "timezone": "America/Bogota"
       }
+    },
+    {
+      "phone": "8383838390",
+      "message": "Xxxxxxxxxxxxxxx",
+      "telemetry": {
+        "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6525 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36",
+        "platform": "Linux aarch64",
+        "language": "es-US",
+        "screenResolution": "360x806",
+        "timestamp": "2025-10-11T03:08:33.757Z",
+        "timezone": "America/Bogota"
+      }
     }
   ]
 }
