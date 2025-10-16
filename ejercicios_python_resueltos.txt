@@ -1,0 +1,69 @@
+
+# Ejercicio 1
+print("Hola Mundo!")
+
+# Ejercicio 2
+miTexto = "Hola mundo!"
+print(miTexto)
+print(type(miTexto))
+
+# Ejercicio 3
+num = 8
+num = num * 2
+num = num / 1.5
+print(num)
+print(type(num))
+
+# Ejercicio 4
+edad = int(input("Dime tu edad: "))
+print("Tienes", edad, "años")
+print(type(edad))
+
+# Ejercicio 5 - Interés compuesto
+capitalInicial = 100000
+interes = 0.02
+ciclos = 10
+capitalFinal = capitalInicial * (1 + interes)**ciclos
+print("Capital final:", capitalFinal)
+
+# Versión con input
+capitalInicial = float(input("Capital inicial: "))
+interes = float(input("Interés (%): ")) / 100
+ciclos = int(input("Años: "))
+capitalFinal = capitalInicial * (1 + interes)**ciclos
+print("Capital final:", capitalFinal)
+
+# Ejercicio 6 - Ley de Ohm
+intensidad = float(input("Intensidad (A): "))
+resistencia = float(input("Resistencia (Ω): "))
+voltaje = intensidad * resistencia
+print("Voltaje:", voltaje, "V")
+
+# Ejercicio 7 - Circunferencia y diámetro
+import math
+radio = float(input("Radio del círculo: "))
+circunferencia = 2 * math.pi * radio
+diametro = 2 * radio
+print("Circunferencia:", circunferencia)
+print("Diámetro:", diametro)
+
+# Ejercicio 8 - Peso molecular
+peso1 = float(input("Peso del primer átomo: "))
+atomo1 = int(input("Número de átomos del primero: "))
+peso2 = float(input("Peso del segundo átomo: "))
+atomo2 = int(input("Número de átomos del segundo: "))
+pesoMolecular = peso1 * atomo1 + peso2 * atomo2
+print("Peso molecular:", pesoMolecular)
+
+# Ejercicio 9 - Factorial
+n = int(input("Número: "))
+factorial = 1
+for i in range(1, n + 1):
+    factorial *= i
+print("Factorial:", factorial)
+
+# Ejercicio 10 - CTR (Click Through Rate)
+impresiones = int(input("Impresiones: "))
+clicks = int(input("Clicks: "))
+CTR = (clicks / impresiones) * 100
+print("CTR:", CTR, "%")
